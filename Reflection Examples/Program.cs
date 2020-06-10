@@ -98,6 +98,7 @@ namespace Reflection_Examples
 		private void GetSalary()
 		{
 			Console.WriteLine("Salary is {0}", Salary);
+			Console.ReadKey();
 		}
 	}
 }
